@@ -1,0 +1,1 @@
+This is a map reduce algorithm implmentation for a distributed system in Go, using Kubernetes and Docker for deployment.
